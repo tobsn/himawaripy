@@ -34,7 +34,7 @@ You can also change the path of the latest picture, which is by default
 
 ## Installation
     cd ~
-    git clone https://github.com/boramalper/himawaripy.git
+    git clone https://github.com/jcmiller11/himawaripy.git
     
     # configure
     cd ~/himawaripy
